@@ -1,6 +1,6 @@
 ### Olá, sou Pedro Castilho 👋
 
-Desenvolvedor full-stack focado em construir produtos digitais reais — de plataformas SaaS e e-commerces a automações e integrações com APIs.
+Desenvolvedor full-stack focado em construir produtos digitais reais, de plataformas SaaS e e-commerces a automações e integrações com APIs.
 
 No dia a dia trabalho com desenvolvimento e manutenção de plataformas web, infraestrutura de transmissões ao vivo, automações de marketing e integrações com gateways de pagamento e mensageria (WhatsApp, email).
 
@@ -46,7 +46,6 @@ No tempo livre, construo projetos de engenharia focados em arquitetura limpa, bo
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedroocastilho&theme=tokyonight&hide_border=true)](https://github.com/pedroocastilho)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedroocastilho&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/pedroocastilho)
 
 ---
 
