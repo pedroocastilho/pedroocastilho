@@ -1,4 +1,4 @@
-### Olá, sou Pedro Castilho 👋
+### Olá, sou Pedro Castilho 
 
 Desenvolvedor full-stack focado em construir produtos digitais reais, de plataformas SaaS e e-commerces a automações e integrações com APIs.
 
@@ -8,7 +8,7 @@ No tempo livre, construo projetos de engenharia focados em arquitetura limpa, bo
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 **Backend**
 
@@ -42,13 +42,13 @@ No tempo livre, construo projetos de engenharia focados em arquitetura limpa, bo
 
 ---
 
-### 📊 Stats
+### Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedroocastilho&theme=tokyonight&hide_border=true)](https://github.com/pedroocastilho)
 
 
 ---
 
-### 🖥️ Portfolio
+### Portfolio
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-castilhodev.com.br-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.castilhodev.com.br)
