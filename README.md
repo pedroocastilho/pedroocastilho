@@ -46,7 +46,7 @@ No tempo livre, construo projetos de engenharia focados em arquitetura limpa, bo
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedroocastilho&theme=tokyonight&hide_border=true)](https://github.com/pedroocastilho)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroocastilho&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/pedroocastilho)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedroocastilho&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/pedroocastilho)
 
 ---
 
