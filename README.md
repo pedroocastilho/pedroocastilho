@@ -44,12 +44,12 @@ No tempo livre, construo projetos de engenharia focados em arquitetura limpa, bo
 
 ### 📊 Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroocastilho&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/pedroocastilho)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedroocastilho&theme=tokyonight&hide_border=true)](https://github.com/pedroocastilho)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroocastilho&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/pedroocastilho)
 
 ---
 
-### 🌐 Portfolio
+### 🖥️ Portfolio
 
-[![castilhodev.com.br](https://img.shields.io/badge/castilhodev.com.br-000000?style=flat&logo=vercel&logoColor=white)](https://www.castilhodev.com.br)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-castilhodev.com.br-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.castilhodev.com.br)
